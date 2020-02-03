@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 191d5d84dd444cb498ff1328ef9dc7ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - damage_box: {fileID: 1536881849481322, guid: af582ead5a2eaec4f995becf0816fbf5,
+      type: 2}
+  - temp_damage_box: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
