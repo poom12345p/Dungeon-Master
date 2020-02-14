@@ -5,8 +5,11 @@ Dungeon Master  is the one player strategy game that the player will play as the
 - [Download Game] (https://drive.google.com/file/d/1-bYFq8lKmIvHjznwIMV3CBWzKbdiE0Bs/view?usp=sharing)
 ## Screenshots
 ![example](/example1.png)
+## Team members
+- Radit Kamai
+- Ravicha Hashimoto
 ## Rewards
-Regional Qualified in National Software Contest (NSC 2018), Entertainment type.
+Regional Qualified in National Software Contest (NSC 2019), Entertainment type.
 ## Development Tools
 - Unity Engine 
 - Visaul Studio
