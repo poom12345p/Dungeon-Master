@@ -4,7 +4,10 @@ Dungeon Master  is the one player strategy game that the player will play as the
 ## Download
 - [Download Game] (https://drive.google.com/file/d/1-bYFq8lKmIvHjznwIMV3CBWzKbdiE0Bs/view?usp=sharing)
 ## Screenshots
-![example](/example1.png)
+![main](/picture/example2.png)
+![eaxam1](/picture/example1.png)
+![eaxam2](/picture/example3.png)
+![eaxam3](/picture/example4.png)
 ## Team members
 - Radit Kamai
 - Ravicha Hashimoto
