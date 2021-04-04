@@ -13,7 +13,7 @@ Dungeon Master  is the one player strategy game that the player will play as the
 - Radit Kamai
 - Ravicha Hashimoto
 ## Rewards
-Regional Qualified in National Software Contest (NSC 2019), Entertainment type.
+Regional Qualified in National Software Contest (NSC 2019), Entertainment program.
 ## Development Tools
 - Unity Engine 
 - Visaul Studio
